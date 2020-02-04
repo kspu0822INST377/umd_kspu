@@ -1,7 +1,6 @@
 # umd_kspu
 tips to organizing research
-Name: Kangsheng Pu
-Data Scientist
-1. Group projects
-2. Exams
-3. Projects
+1. Name: Kangsheng Pu
+2. Data Scientist
+3. Group projects, Exams, Projects
+4. Google, flow chart, logic
